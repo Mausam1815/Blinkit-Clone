@@ -1,3 +1,3 @@
 # Blinkit-Clone
 
-## Here is the deployed link : [Blinkit Clone] (url : https://mausam1815.github.io/Blinkit-Clone/)
+Check out the deployed Blinkit Clone [here](https://mausam1815.github.io/Blinkit-Clone/).
