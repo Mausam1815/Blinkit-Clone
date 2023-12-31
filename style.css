@@ -111,11 +111,6 @@ footer {
 .fa-heart {
     color: red;
 }
-/* Large screens (desktops and laptops) */
-@media only screen and (min-width: 1200px) {
-    /* Adjustments for larger screens go here */
-}
-
 /* Medium screens (tablets) */
 @media only screen and (min-width: 768px) and (max-width: 1199px) {
     main {
